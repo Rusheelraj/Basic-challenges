@@ -1,2 +1,4 @@
-I am Hex. They told me to send you a message. 
-"Read me at 0xBFB5". Check out, bit by bit!
+I am Hex. Here's a poem for you. 
+"Read me at 0xBFB5, 
+ Check me out, bit by bit!
+ Only the alpha-bits" 
